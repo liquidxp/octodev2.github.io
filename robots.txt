@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://liquidxp.github.io/sitemap.xml 
