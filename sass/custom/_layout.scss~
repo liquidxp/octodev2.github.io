@@ -20,6 +20,6 @@ $max-width: 992px;
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
 
-body.sidebar-footer {
+footer {
   border-top: none;
 }

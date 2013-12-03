@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Index"
+title: "Hello World with Octopress"
 date: 2013-11-29 03:04:18 -0800
 comments: true
 categories: 
 ---
+This is a hello message from octopress. A dream blogging engine for hackers and hackers wannabe.

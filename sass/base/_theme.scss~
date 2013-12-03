@@ -84,6 +84,6 @@ body {
   }
 }
 
-body > header h1 a:hover {
+body > header h1:hover {
   color: $link-color-hover;
 }
